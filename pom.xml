@@ -13,6 +13,8 @@
         <module>SpringCoreBeansAndContext</module>
         <module>FactoryPattern</module>
         <module>AbstractFactory</module>
+        <module>SingletonPattern</module>
+        <module>BuilderPattern</module>
     </modules>
 
     <dependencies>
